@@ -1,10 +1,3 @@
-/////////////////////////////////////////////////////////////////////////////////////////////
-///				This is read-me file for CSE 574 Assignment 2.							  ///
-///		It contains step by step execution details for all the parts of the project		  ///
-///				@Author : Anirudha Karwa (akarwa@buffalo.edu)							  ///
-///						  Pratik Bhat (pratiksu@buffalo.edu)							  ///
-/////////////////////////////////////////////////////////////////////////////////////////////
-
 The aim of this assignment is to implement different regression techniques on a diabetes dataset 
 to predict the diabetes level of patients using the input features. We had to recommend the 
 best technique in the given environment.
